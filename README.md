@@ -5,5 +5,4 @@ Retrieval-Augmented Generation (RAG) is a technique that combines a retriever an
 
 ![image](https://github.com/ZoreAnuj/Retrieval-Augmented-Generation-with-Llama-2/assets/95142805/3d9fdf58-4fe7-4fca-a366-890abc35f146)
 
-
-Figure: A schematic representation of RAG with a retriever and an LLM
+Reference: https://webcache.googleusercontent.com/search?q=cache:https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476
